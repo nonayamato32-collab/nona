@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "1. 幸運の兆し",
-    "image": "images/1.jpg",
+    "image": "images/01.jpg",
     "meanings": [
       "己の新しい一面を知る",
       "身近な所で深い気づきが得られる",
@@ -13,7 +13,7 @@
   {
     "id": 2,
     "title": "2. 歴史に学ぶ",
-    "image": "images/2.jpg",
+    "image": "images/02.jpg",
     "meanings": [
       "他人の知られざる一面を知る",
       "意外なものから学ぶ",
@@ -24,7 +24,7 @@
   {
     "id": 3,
     "title": "3. 相談",
-    "image": "images/3.jpg",
+    "image": "images/03.jpg",
     "meanings": [
       "秘密の相談",
       "誰かに助言をもらう時",
@@ -35,7 +35,7 @@
   {
     "id": 4,
     "title": "4. 家族",
-    "image": "images/4.jpg",
+    "image": "images/04.jpg",
     "meanings": [
       "真実に向き合う時",
       "思いもよらぬ事実に驚く",
@@ -46,7 +46,7 @@
   {
     "id": 5,
     "title": "5. 心の闇",
-    "image": "images/5.jpg",
+    "image": "images/05.jpg",
     "meanings": [
       "心の奥深くにしまった疎外感",
       "愛されたかった欲求",
@@ -57,7 +57,7 @@
   {
     "id": 6,
     "title": "6. 葛藤",
-    "image": "images/6.jpg",
+    "image": "images/06.jpg",
     "meanings": [
       "混乱して自分を見失う",
       "考えすぎている時",
@@ -68,7 +68,7 @@
   {
     "id": 7,
     "title": "7. サポート",
-    "image": "images/7.jpg",
+    "image": "images/07.jpg",
     "meanings": [
       "望みが叶う時",
       "想像より大きなサポート",
@@ -79,7 +79,7 @@
   {
     "id": 8,
     "title": "8. 健康",
-    "image": "images/8.jpg",
+    "image": "images/08.jpg",
     "meanings": [
       "体調が良くなっていく",
       "外出して気分転換を",
@@ -90,7 +90,7 @@
   {
     "id": 9,
     "title": "9. 仕事",
-    "image": "images/9.jpg",
+    "image": "images/09.jpg",
     "meanings": [
       "仕事に打ち込む",
       "作業がはかどる",
